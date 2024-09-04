@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+
+
+#text{
+      margin-left: 60%;
+      color: white;
+}
+#a{
+      text-decoration:none ;
+      color: black;
+      font-size:50px;
+      font-family: "DM Serif Text", serif;
+      font-weight: 400;
+      font-style: normal;
+}
+#color{
+      margin-bottom: 10%;
+      margin-left: 8%;
+      font-family: "DM Serif Text", serif;
+      font-weight: 400;
+      font-style: normal;
+}
+#head{
+      font-size:50px;
+      font-family: "DM Serif Text", serif;
+      font-weight: 400;
+      font-style: normal;
+}
+#head1,#head2,#head3,#head4,#head5,#head6{
+      font-size:19px;
+      font-family: "DM Serif Text", serif;
+      font-weight: 400;
+      font-style: normal;
+}
+.size{
+      font-size: 15px;
+}
+.text1{
+      font-size: medium;
+}
+.harii:hover{
+      background-color: rgb(255, 60, 125);
+      cursor: pointer;
+      transition: 1s;
+      color:white;
+}
+.marii:hover{
+      color: rgb(252, 76, 79);
+}
+.hari1{
+      color:rgb(255, 60, 125); 
+      font-size:50px;
+      font-family: "DM Serif Text", serif;
+      font-weight: 400;
+      font-style: normal;
+}
+
+.x1,.f1,.s1,.i1,.l1{
+      margin: 9px;
+    
+
+}
+#head{
+      margin-left: 5%;
+}
